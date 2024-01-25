@@ -19,3 +19,15 @@ Here's how to play: <br>
   1. Clone or download the repository. <br>
   2. Run the Digital-Cricket.py file. <br>
   3. Follow the on-screen instructions to bat, bowl, and strategize your way to victory! <br>
+
+Screenshots:
+
+[Insert a captivating screenshot of the game's main menu or gameplay]
+
+[Insert a GIF showcasing a key game moment, like a thrilling six or a dramatic wicket]
+
+Contributions are welcome!
+
+Feel free to fork the repository, suggest improvements, or add new features. Let's collaborate to make this cricket game even more exciting!
+
+#Python #GameDev #Cricket #Coding #Recursion #Skills #GitHub
